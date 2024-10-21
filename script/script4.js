@@ -56,5 +56,5 @@ function createParallaxText(text, baseVelocity) {
 
 document.addEventListener('DOMContentLoaded', () => {
   createParallaxText('Mohon jangan diganggu !!!', -2); 
-  createParallaxText('Halo semuanya', 2); 
+  createParallaxText('Halo semuanya. Ini dibuat menggunakan CSS dan Tailwind yang letaknya inline', 2); 
 });
